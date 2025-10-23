@@ -14,7 +14,7 @@
     "SESSION_ID": {
       "description": "put your session ID here in the box below",
       "required": true,
-      "value": ""
+      "value": "Prince~scl/fi/tr5c3d1vznme579l3irch/aDk4d0MyXk.json?rlkey=p8xdgrwtgvos6b8rwiyzqewm6&dl=0"
     },
     "BOT_NAME": {
       "description": "put your BOT a name",
@@ -24,7 +24,7 @@
     "OWNER_NUMBER": {
       "description": "put your Number and name for Owner",
       "required": true,
-      "value": "639129985130,DEVELOPER"
+      "value": "923314926746,DEVELOPER"
     },
     "owner_react_emojie": {
       "description": "put one emojie for owner reacts",
@@ -34,7 +34,7 @@
     "MODE": {
       "description": "choose bot mode public or private",
       "required": true,
-      "value": "public"
+      "value": "private"
     },
     "BUSINESS_MODE": {
       "description": "If your deploying bot in WhatsApp Bussinus then make it 👉🏻 true",
@@ -49,7 +49,7 @@
     "PREFIX": {
       "description": "put any one symbol here leave it Blank if you want to use multiple prefix",
       "required": false,
-      "value": ""
+      "value": "."
     },
     "AlwaysOnline": {
       "description": "make it true to be always online",
@@ -64,7 +64,7 @@
     "ANTI_LINK": {
       "description": "it will dlt links and kick user",
       "required": false,
-      "value": "true"
+      "value": "false"
     },
      "AutoReaction": {
      "description": "Set to 'true' for reactions in all chats, 'group' for group chats only, 'private' for private chats only, or 'false' to disable",
